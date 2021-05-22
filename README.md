@@ -43,7 +43,7 @@
 ### 可以看到修改的內容 還有我們要從自己的哪個分支推送到專案的哪個分支  
 ### 確認沒問題就按下create pull request  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132040.png)  
-![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132005.png)  
+![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132055.png)  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132722.png)  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132752.png)  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20133112.png)  
