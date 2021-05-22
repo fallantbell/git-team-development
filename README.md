@@ -4,11 +4,9 @@
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130054.png)  
 ### 新增一個資料夾  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130200.png)  
-### 打開cmd 進入資料夾並使用git init 初始化  
-![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130239.png)  
 ### 點擊專案右上角綠色的code 並複製網址  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130313.png)  
-### 回到cmd 使用git clone 網址 將專案下載到本地端  
+### 打開cmd 使用git clone 網址 將專案下載到本地端  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130335.png)  
 ### 可以看到有一個新的資料夾 new-repo  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20130401.png)  
