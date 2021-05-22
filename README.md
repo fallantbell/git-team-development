@@ -37,7 +37,11 @@
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20131633.png)  
 ### 之後使用git push origin(自己的github) main(想要push的分支) 指令將電腦上修改完的資料同步到github上 
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20131722.png)  
+### 修改成功 接者要將我們修改的資料同步到我們原本fork的專案  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20131948.png)  
+### 按下pull request(簡稱 pr)  
+### 可以看到修改的內容 還有我們要從自己的哪個分支推送到專案的哪個分支  
+### 確認沒問題就按下create pull request  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132040.png)  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132005.png)  
 ![image](https://github.com/fallantbell/git-team-development/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-05-22%20132722.png)  
